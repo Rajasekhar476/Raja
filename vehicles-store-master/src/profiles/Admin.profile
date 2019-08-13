@@ -214,10 +214,7 @@
         <enabled>true</enabled>
         <name>ApiEnabled</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ApproveContract</name>
-    </userPermissions>
+    
     <userPermissions>
         <enabled>true</enabled>
         <name>AssignPermissionSets</name>
